@@ -1,0 +1,2 @@
+# cifar10
+pytorchlearn的子仓库之一，搭建经典的残差网络resnet50，并读取cifar10数据集
